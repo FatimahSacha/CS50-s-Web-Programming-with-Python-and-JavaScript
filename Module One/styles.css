@@ -32,3 +32,24 @@ td, th{
     padding:15px;
     text-align:center;
 }
+
+li{
+    color:red;
+}
+
+ol ul li{
+    color:orange;
+}
+
+a{
+    color:purple;
+}
+
+a[href="https://www.figma.com/files/recent?fuid=1073631975558547878"]{
+    color:pink;
+}
+
+a:hover{
+    background-color:yellow;
+    color:black;
+}
