@@ -34,3 +34,16 @@
     left:1340px 
 }
 
+@media (min-width:800px) {
+    square-one{
+        padding:700px;
+        
+    }
+}
+
+@media (min-width:500px) {
+    square-one{
+        padding:10px;
+        
+    }
+}
