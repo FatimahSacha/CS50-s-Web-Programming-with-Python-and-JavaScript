@@ -1,0 +1,36 @@
+
+.sqaure-one{
+    padding:175px;
+    background-color:aqua;
+    width:100px;
+    margin:20px;
+    
+}
+
+.sqaure-two{
+    padding:175px;
+    background-color:yellow;
+    width:75px;
+    position:absolute;
+    top:80px;
+    left:500px
+}
+
+.square-three{
+    padding:175px;
+    background-color:green;
+    width:10px;
+    position:absolute;
+    top:80px;
+    left:950px
+}
+
+.sqaure-four{
+    padding:175px;
+    background-color:orange;
+    width:10px;
+    position:absolute;
+    top:80px;
+    left:1340px 
+}
+
